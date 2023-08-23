@@ -1,0 +1,7 @@
+{
+  "extends": "eslint:recommended",
+  "rules": {
+    "array-callback-return": "off"
+    // Add more rules as needed
+  }
+}
